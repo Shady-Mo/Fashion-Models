@@ -6,7 +6,7 @@ ScrollTrigger.defaults({
 });
 
 gsap.to('.overlay-image-container', {
-   scale: 30,
+   scale: 60,
    ease: 'ease',
    scrollTrigger: {
       trigger: '.image-section',
